@@ -5,7 +5,7 @@
 <h1 align="center">⚡ AuraX USERBOT ⚡</h1>
 
 
-[![AuraX logo](https://telegra.ph/file/aed7694386346a6a897f9.jpg)](https://t.me/AuraXSupportz)
+[![AuraX logo](https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg)](https://t.me/AuraXSupportz)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>

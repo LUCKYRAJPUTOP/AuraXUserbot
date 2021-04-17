@@ -19,7 +19,7 @@ else:
 
 AuraX = bot.uid
 
-PM_IMG = "https://telegra.ph/file/aed7694386346a6a897f9.jpg"
+PM_IMG = "https://telegra.ph/file/62b6e6a1bb6ed711401ce.jpg"
 pm_caption = "**⚡Äµråxßð† ɨs օռʟɨռɛ⚡**\n\n"
 
 pm_caption += (
